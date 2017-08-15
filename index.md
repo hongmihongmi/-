@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+<html>
+	<head>
+		<title>Starbuzz Coffee</title>
+		<style  type="text/css">
+		body{
+			background-color: #d2b48c;
+			margin-left: 20%;
+			margin-right: 20%;
+			border: 2px dotted black;
+			padding: 10px 10px 10px 10px;
+			font-family: sans-serif;
+			}
+			
+		</style>
+	</head>
 
-You can use the [editor on GitHub](https://github.com/hongmihongmi/-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+	<body>
+		<h1>Starbuzz Coffee Beverages</h1>
+		<h2>House Blend,$1.49</h2>
+		<p>A smooth,mild blend of coffees from Mexico,Bolivia and Guatemala.</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+		<h2>Mocha Cafe Latte,$2.35</h2>
+		<p>Espresso,steamed milk and chocolate syrup.</p>
 
-### Markdown
+		<h2>Cappuccino,% 1.89</h2>
+		<p>A mixture of espresso,steamed milk and foam.</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hongmihongmi/-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+		<h2 id="chai">Chai Tea,$1.85</h2>
+		<p>A spicy drink made with black tea,spices,milk and money.</p>
+		<p>
+			<a target="_blank"href="mission.html"title="our mission">Read about our mission</a>
+			<br>
+			Read the <a href="http://wickedlysmart.com/buzz/index.html#Coffee"title="Read all about caffeine on the buzz">Caffeine Buzz</a>
+			<a href="index.html#chai">see chai tea</a>
+		</p>
+	</body>
+</html>
